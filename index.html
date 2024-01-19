@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Game | Rock Paper Scissors</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+
+    <!-- Navbar -->
+    <header class="container">
+        <div class="navbar"> 
+
+            <h1>ROCK<br/>PAPER<br/>SCISSORS</h1>
+
+            <div class="score-board">
+                <div class="score">
+                    <p class="score-title">PLAYER</p>
+                    <p id="user-score">0</p>
+                </div>
+                <div class="score">
+                    <p>COMPUTER</p>
+                    <p id="comp-score">0</p>
+                </div>
+            </div>
+
+        </div>
+    </header>
+
+    <!-- Main content -->
+    <main class="container">
+
+        <div class="msg-container">
+            <p id="msg">Play your Move!</p>
+        </div>
+
+        <div class="choices">
+            <div class="choice" id="Rock">
+                <img class="choice-image" src="./images/rock.png" alt="Rock">
+            </div>
+            <div class="choice" id="Paper">
+                <img class="choice-image" src="./images/paper.png" alt="Paper">
+            </div>
+            <div class="choice" id="Scissors">
+                <img class="choice-image" src="./images/scissors.png" alt="Scissors">
+            </div>
+        </div>
+
+    </main>
+
+    <!-- Rules -->
+    <div class="container tooltip ">
+        <div class="tooltip-group">
+            <h6>RULES</h6>
+            <img class="tooltipimg" src="images/image-rules.svg" alt="Game - Rules">
+        </div>
+    </div>  <!-- / .tooltip  -->
+    
+    <script src="script.js"></script>
+
+</body>
+</html>
