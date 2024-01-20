@@ -36,3 +36,6 @@ Check out the live demo of the Rock, Paper, Scissors Game [here](https://chauhan
 
    ```bash
    git clone https://github.com/chauhan-hardik/Rock-Paper-Scissors.git
+
+## Contributing
+Contributions are welcome! If you have ideas for improvements, find bugs, or want to enhance the project, please open an issue or submit a pull request.
