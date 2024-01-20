@@ -2,10 +2,11 @@
 
 Welcome to the Rock, Paper, Scissors Game project! This simple and interactive web-based game is built using HTML5, CSS3, and JavaScript. Test your luck and strategy against the computer in the classic Rock, Paper, Scissors duel.
 
+<!--
 ## Live Demo
 
 Check out the live demo of the Rock, Paper, Scissors Game [here](https://chauhan-hardik.github.io/Rock-Paper-Scissors/).
-
+-->
 ## Features
 
 - **User-friendly Interface:** Enjoy a clean and intuitive design for an immersive gaming experience.
